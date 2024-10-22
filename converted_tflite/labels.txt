@@ -1,0 +1,4 @@
+0 Claw Open
+1 Claw Closed
+2 Thumbs Up
+3 Thumbs Down
