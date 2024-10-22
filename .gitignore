@@ -1,0 +1,6 @@
+# Ignore Python virtual environments
+myenv/
+
+# Ignore other large files
+*.dylib
+*.so
